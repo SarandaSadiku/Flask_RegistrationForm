@@ -1,0 +1,12 @@
+input{
+	display: block;
+}
+
+.red{
+	color: red;
+	font-size: 6px;
+}
+
+.black{
+	font-size: 4px;
+}
